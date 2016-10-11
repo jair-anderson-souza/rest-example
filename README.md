@@ -1,1 +1,2 @@
-# rest-example
+# Rest Example
+Example using RESTful Architecture
